@@ -58,6 +58,8 @@ body {
 .menu {
     font-size: 1.1rem;
     padding: 0 15px;
+    color: green;
+    transition: 2s;
 }
 a {
     text-decoration: none;
